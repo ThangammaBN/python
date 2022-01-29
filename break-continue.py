@@ -1,5 +1,5 @@
 while True:
-    print("who are you woman")
+    print("who are you man")
     name=input()
     if name!='joe':
         continue
