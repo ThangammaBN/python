@@ -7,4 +7,3 @@ while True:
     password=input()
     if password=='passcode':
         break
-print("acces granted!")
